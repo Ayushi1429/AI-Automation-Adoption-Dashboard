@@ -12,4 +12,4 @@ This Power BI dashboard analyzes the impact of AI and automation on different in
 ![Dashboard Screenshot](Screenshot 2025-06-05 174831.png)
 
 ## 📁 Download the Power BI file
-[Click here to download the .pbix file](./AI_Automation_Adoption_Dashboard_Final.pbix)
+[Click here to download the .pbix file](https://github.com/Ayushi1429/AI-_-Automation_-Adoption-_Dashboard/raw/main/AI_Automation_Adoption_Dashboard%20(1).pbix)
