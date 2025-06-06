@@ -9,7 +9,7 @@ This Power BI dashboard analyzes the impact of AI and automation on different in
 - Majority of job titles fall under Medium AI usage.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard_preview.png)
+![Dashboard Screenshot](Screenshot 2025-06-05 174831.png)
 
 ## 📁 Download the Power BI file
 [Click here to download the .pbix file](./AI_Automation_Adoption_Dashboard_Final.pbix)
