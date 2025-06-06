@@ -1,14 +1,15 @@
 # AI-_-Automation_-Adoption-_Dashboard
-Power BI project showing AI adoption trends and automation risks by industry and job role.
-This Power BI project visualizes:
-- 📌 AI adoption trends across industries
-- 🤖 Job roles at risk of automation
-- 📈 AI usage score distribution
+# 🧠 AI Automation Adoption Dashboard
 
-### Dataset:
-Kaggle AI Job Risk & Automation Dataset
+This Power BI dashboard analyzes the impact of AI and automation on different industries and job roles.
 
-### Key Insights:
+## 📌 Key Insights
 - Technology and Finance lead in AI adoption.
 - Support and Data roles face highest automation risk.
 - Majority of job titles fall under Medium AI usage.
+
+## 📊 Dashboard Preview
+![Dashboard Screenshot](dashboard_preview.png)
+
+## 📁 Download the Power BI file
+[Click here to download the .pbix file](./AI_Automation_Adoption_Dashboard_Final.pbix)
